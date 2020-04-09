@@ -40,7 +40,7 @@
 $ git clone https://github.com/ricardobalbinot/conceitos-nodejs.git
 
 # Go into the repository
-$ cd gostack-express-essentials
+$ cd conceitos-nodejs
 
 # Install dependencies
 $ yarn
