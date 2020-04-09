@@ -2,6 +2,8 @@
 
 <h3 align="center">
   Conceitos do Node.js
+  <br>
+  <img alt="NodeJS" width="150px" height="auto" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/320px-Node.js_logo.svg.png" />
 </h3>
 
 <h4 align="center">
